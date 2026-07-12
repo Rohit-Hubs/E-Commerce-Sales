@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+ HEAD
 # E-Commerce Sales Analytics Dashboard
 
 A responsive, full-stack executive business intelligence dashboard. It ingests e-commerce transactional data from spreadsheet uploads (CSV), validates and deduplicates records in Python using Pandas, calculates high-performance operational metrics (KPIs) directly inside PostgreSQL using raw SQL queries (CTEs, Window Functions, LAG, and Aggregates), and visualizes the results on an interactive React dashboard.
@@ -181,4 +181,4 @@ The `/upload` API accepts file uploads with the following columns:
 * `GET  /analytics/insights` - Runs rules-based heuristic operations inside the database to return text summaries of leaders, growth rates, and discount-to-profit loss risks.
 =======
 # E-Commerce-Sales
->>>>>>> c5aeede512f149b5bb4619dedf7a08363921ae1f
+
